@@ -1,5 +1,5 @@
 # Student_and_Course_Management
-It is a simple console based student and course management system using java
+
 🎓 Student & Course Management System
 
 A simple Java console-based application to manage students, courses, and enrollments using clean architecture and modular design.

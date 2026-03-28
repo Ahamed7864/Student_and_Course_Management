@@ -35,7 +35,7 @@ I used "ArrayList" instead of arrays because the application requires dynamic da
 
 * Example in Project
 
-List<Student> students = new ArrayList<>();
+ArrayList<Student> students = new ArrayList<>();
 
 🔹 Conclusion
 
